@@ -152,6 +152,17 @@ footer small{
     display: block; /*quebra linha*/
 }
 
+.cog-1{
+    --form__background-color:
+      visibility: hidden !important;
+    color: #385874 !important;
+
+}
+
+.cog-label{
+    visibility: hidden !important;
+}
+
 span .cog-branding__powered{
     visibility: hidden !important;
 }
