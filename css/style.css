@@ -129,6 +129,25 @@ ol li{
     color: #454545;
     line-height: 1.6;
 }
+img{
+    max-width: 100%;
+    height: auto;
+}
+
+#tenho-interesse, .cog-1{
+    background-color: #b8c8d6 !important;
+    width: 100%;
+}
+
+h1 .cog-heading{
+    color: #254159;
+}
+
+
+
+
+
+
 
 footer p{
     font-size: 1.4rem;
@@ -145,3 +164,8 @@ span .cog-branding__powered{
 html .cog-branding--minimal, html .cog-branding--minimal *, :root:root:root:root:root .cog-branding--minimal, :root:root:root:root:root .cog-branding--minimal * {visibility: hidden !important;}
 
 html .cog-abuse ul, :root:root:root:root:root .cog-abuse ul {visibility: hidden !important;}
+
+.cognito {
+    height: 500px !important;
+    overflow: hidden !important;;
+}
