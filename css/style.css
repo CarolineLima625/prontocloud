@@ -139,3 +139,9 @@ footer small{
     display: block; /*quebra linha*/
 }
 
+span .cog-branding__powered{
+    visibility: hidden !important;
+}
+html .cog-branding--minimal, html .cog-branding--minimal *, :root:root:root:root:root .cog-branding--minimal, :root:root:root:root:root .cog-branding--minimal * {visibility: hidden !important;}
+
+html .cog-abuse ul, :root:root:root:root:root .cog-abuse ul {visibility: hidden !important;}
